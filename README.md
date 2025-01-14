@@ -1,3 +1,3 @@
 # test
-all files are test files of pythonn code
+all files are test files of python code
 
